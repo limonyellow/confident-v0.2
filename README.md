@@ -1,12 +1,12 @@
 # Confident
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/confident?style=plastic)](https://github.com/limonyellow/confident)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/confident?style=plastic)](https://github.com/limonyellow/confident-v0.2)
 [![PyPI](https://img.shields.io/pypi/v/confident?style=plastic&color=%2334D058)](https://pypi.org/project/confident/)
-[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/limonyellow/confident/Python%20package/main?style=plastic)](https://github.com/limonyellow/confident/actions)
-[![GitHub](https://img.shields.io/github/license/limonyellow/confident?style=plastic)](https://github.com/limonyellow/confident)
-[![Coverage](https://codecov.io/gh/limonyellow/confident/branch/main/graph/badge.svg?token=L161UYE2RM)](https://codecov.io/gh/limonyellow/confident)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/limonyellow/confident-v0.2/Python%20package/main?style=plastic)](https://github.com/limonyellow/confident-v0.2/actions)
+[![GitHub](https://img.shields.io/github/license/limonyellow/confident-v0.2?style=plastic)](https://github.com/limonyellow/confident-v0.2)
+[![Coverage](https://codecov.io/gh/limonyellow/confident-v0.2/branch/main/graph/badge.svg?token=L161UYE2RM)](https://codecov.io/gh/limonyellow/confident-v0.2)
 ---
 
-[**Documentation**](https://limonyellow.github.io/confident/)
+[**Documentation**](https://limonyellow.github.io/confident-v0.2/)
 
 ---
 
@@ -80,7 +80,7 @@ including type validation, [object transformation](https://pydantic-docs.helpman
 Details about the origin value (before conversion), the location of the source and the type of loader, can all be accessed from the object. 
 
 ## Examples
-More examples can be found in the project's [repository](https://github.com/limonyellow/confident).
+More examples can be found in the project's [repository](https://github.com/limonyellow/confident-v0.2).
 
 ## Contributing
 To contribute to Confident, please make sure any new features or changes to existing functionality include test coverage.
