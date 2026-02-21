@@ -1,4 +1,4 @@
-# Confident
+# Confident v0.2
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/confident?style=plastic)](https://github.com/limonyellow/confident-v0.2)
 [![PyPI](https://img.shields.io/pypi/v/confident?style=plastic&color=%2334D058)](https://pypi.org/project/confident/)
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/limonyellow/confident-v0.2/Python%20package/main?style=plastic)](https://github.com/limonyellow/confident-v0.2/actions)
